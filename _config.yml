@@ -110,7 +110,7 @@ author:
   name             : "Myeong Jaehwan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Testing blog"
-  location         : "RNB 본사"
+  location         : "RNB"
   email            :
   links:
     - label: "Email"
