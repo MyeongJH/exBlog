@@ -118,7 +118,7 @@ author:
       # url: mailto:your.name@email.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/MyeongJH/MyeongJH.github.io"
+      url: "https://github.com/MyeongJH"
     - label: "D3 Test"
       icon: "fas fa-fw fa-link"
       url: "https://myeongjh.github.io/d3-test-app/"
