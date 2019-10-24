@@ -43,7 +43,7 @@ obj.a = 0;
 console.log(obj);       //{a: 0, b: 2, c: 3}
 console.log(cloneObj);  //{a: 1, b: 2, c: 3}
 ```
-
+  
 # 얕은 클론(Shallow Clone) vs 딥 클론(Deep Clone)
 Spread와 Object.assign은 객체를 복사 할 때 얕은 사본 만 만듭니다.
 얕은 복사는 첫 번째 레벨이 복사되고 더 깊은 레벨이 참조됨을 의미합니다.
